@@ -10,14 +10,16 @@ SQL Portfolio Project | Music Store Data Analysis
 
 - import the CSV files in My SQL database
 - Perform QA testing and Data Profiling
-- Answer all sets of questions regarding the dataset.
+- Answer all sets of questions regarding the dataset. [SQL Queries](https://github.com/SushantKG/Music-Store-Data-Analysis/blob/main/SQL%20queries.sql)
+- Refer to Schema [Schema](https://github.com/SushantKG/Music-Store-Data-Analysis/assets/152982735/8a89c7f9-a44c-492c-bd89-cf83f21cc438)
+ 
+  ![Music Store Database Schema](https://github.com/SushantKG/Music-Store-Data-Analysis/assets/152982735/a060f76e-a65b-499d-a75c-c1a6217992ab)
 
+# Tools
 
-## Tools
+### MY SQL - For QA testing, Data profiling, and answering questions
 
-- MY SQL - For QA testing, Data profiling and answering questions
-
-## My SQL Queries and Results
+# My SQL Queries and Results
 
                   -- Question set 1 - Easy --
 			
