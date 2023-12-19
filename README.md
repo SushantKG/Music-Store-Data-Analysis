@@ -4,7 +4,7 @@
 
 SQL Portfolio Project | Music Store Data Analysis
 
-### Raw Data Source - [Raw CSV Files](music store data)
+### Raw Data Source - [Raw CSV Files](https://github.com/SushantKG/Music-Store-Data-Analysis/tree/main/music%20store%20data)
 
 ## Steps
 
