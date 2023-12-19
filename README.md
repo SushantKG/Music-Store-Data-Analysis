@@ -4,7 +4,7 @@
 
 SQL Portfolio Project | Music Store Data Analysis
 
-### Raw Data Source - [db_dump.sql](db_dump.sql)
+### Raw Data Source - [Raw CSV Files](music store data)
 
 ## Steps
 
